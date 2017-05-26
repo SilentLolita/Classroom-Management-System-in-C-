@@ -1,1 +1,1 @@
-# Classroom Management System in C++ Language
+# Classroom Management System in C++
